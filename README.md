@@ -1,2 +1,9 @@
-# PLC_ST_exs
-PLC ST Language exercises on Mitsubishi FX3U PLC
+# PLC ST語言練習
+<li>技能檢定術科
+<ol>
+<li>機電整合丙級技術士技能檢定術科（1~5題）</li>
+<li>機電整合乙級技術士技能檢定術科（2~5題）</li>
+</ol>
+</li>
+<li>停車塔模擬（自動倉儲）</li>
+<li>物件高度測量與分類</li>
